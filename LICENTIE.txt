@@ -1,0 +1,14 @@
+hexENErgy valt onder een asymmetrisch open source model.
+
+TOEGESTAAN:
+- Volledig gebruik door natuurlijke personen, wereldwijd.
+- Aanpassen, delen en bouwen op de techniek, mits niet commercieel of institutioneel gebruikt.
+
+VERBODEN:
+- Gebruik door bedrijven, overheden of instellingen zonder expliciete licentie.
+- Commerciële exploitatie zonder akkoord van de hexDUE-stichtingstructuur.
+- Pogingen tot patenteren, ombouwen, reverse-engineeren buiten de officiële structuur.
+
+Alle rechten, verificatiestructuren en juridische grondprincipes zijn identiek aan hexAI.nl.
+
+Voorwaarden gecontroleerd via gedragsslot, vectorverificatie en hashcontrole.e620c434a5b0c9c7faca2e63878f0597f3c564695efee689fe47643076ec3d81
