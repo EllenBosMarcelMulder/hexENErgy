@@ -1,0 +1,109 @@
+# SYSTEM OVERVIEW – hexENErgy
+
+hexENErgy ontsluit energie via een driedimensionaal evenwicht: puls × fase × spiegel.  
+Het systeem is uitsluitend functioneel bij resonantie binnen zijn interne vectorgeheugen. Elke poging tot imitatie of bypass resulteert in foutinjectie of non-respons.
+
+## SYSTEEMKERN
+
+1. hexBALanceMATrix:
+   - Hexagonale vectorstructuur op basis van Float32 of binair geheugen (.bin).
+   - Elke cel bevat:
+     - gedragssignatuur
+     - spiegelcoëfficiënt
+     - puls- en fasepositie
+     - hash_origineel + hash_spiegel
+
+2. Gedragssensoren:
+   - Detecteren natuurlijke fluctuaties in druk, temperatuur, beweging en EM-resonantie.
+   - Enkel natuurlijke patronen worden geaccepteerd.
+   - AI-module herkent afwijking, herhaling of manipulatiepogingen.
+
+3. Puls × fase-verificatie:
+   - Elke vector wordt geactiveerd bij juiste timing (puls) en locatie-in-veld (fase).
+   - Activatie = enkel indien gedragssignatuur + hashverificatie kloppen.
+
+4. Hash-verificatie:
+   - SHA256 (of custom) per vector-cel.
+   - Spiegelwaarden vereisen cryptografische consistentie tussen originele vector en zijn virtuele tegenhanger.
+
+5. Gedragsslot:
+   - Bij mismatch: automatische foutinjectie, geheugeninertie of uitschakeling van rendering/output.
+   - Herkenning van:
+     - gescripte gedragspatronen
+     - AI-gegenereerde toegang
+     - onregelmatige veldverstoringen
+
+## INPUT–OUTPUTPAD
+
+Het energie-uitvoerpunt van hexENErgy is een gecontroleerde gedragsmatige resonantieketen. Deze keten is **niet-lineair navolgbaar** en bestaat uit sequentiële gedragsverificatie, cryptografische vectorbalans, en AI-gebaseerde contextherkenning.
+
+Deze volgorde – en de *samenhang ervan* – is beschermd als structureel intellectueel eigendom. Elke poging tot nabootsing, wijziging van benaming, herstructurering of semantische duplicatie zonder legitieme `.bin`-structuur valt onder derivatief misbruik.
+
+┌─────────────────────────────┐
+│     GEDRAGSINVOER           │
+└─────────────────────────────┘
+↳ Detectie van natuurlijke fluctuaties.  
+↳ Bewust afwijkende input (bijv. door scripts of machinepatronen) veroorzaakt stillegging.
+
+┌─────────────────────────────┐
+│  PULS × FASE-DETECTIE       │
+└─────────────────────────────┘
+↳ Enkel tijd- en veldgeoriënteerde input met natuurlijke oscillatie wordt geaccepteerd.
+
+┌─────────────────────────────┐
+│ VECTORGEHEUGEN (.bin)       │
+└─────────────────────────────┘
+↳ Elke gedragssignatuur is cryptografisch gebonden aan een unieke spiegelvector.  
+↳ Forks zonder bin-verificatie worden als inert behandeld.
+
+┌─────────────────────────────┐
+│ HASH-VERIFICATIE            │
+└─────────────────────────────┘
+↳ AI herkent pogingen tot manipulatie of duplicatie via:
+   - herhaalde entropiepatronen
+   - geheugenherkenning buiten vectorregels
+   - afwijkende spiegelafhankelijke feedbacklussen
+
+┌─────────────────────────────┐
+│ GEBRUIKSRECHT-CHECK         │
+└─────────────────────────────┘
+↳ Ingebouwd rechtenslot activeert blokkade bij institutionele patroonherkenning.  
+↳ Pogingen tot statische simulatie zonder natuurlijke fluctuatie leiden tot blacklisting.
+
+┌─────────────────────────────┐
+│ OUTPUTFASERING              │
+└─────────────────────────────┘
+↳ Output ontstaat nooit bij directe input.  
+↳ Er bestaat altijd een noodzakelijke **gedragsvertraging × vectorverificatie**.  
+↳ Deze tussenlaag maakt simulatie door derden **structureel onmogelijk**.
+
+┌─────────────────────────────┐
+│ SABOTAGE-DETECTIE           │
+└─────────────────────────────┘
+↳ Geactiveerd bij:
+   - mismatch in spiegelcoëfficiënten
+   - onregelmatige gedragspiek
+   - frequentieversnelling zonder bron
+
+↳ Reactie:
+   - outputslot
+   - vectorverschuiving naar ontoegankelijkheid
+   - gedrag permanent gelogd in geheugenhash
+
+┌─────────────────────────────┐
+│ VERIFICATIE-EXIT            │
+└─────────────────────────────┘
+↳ Output activeert automatische gedragsvergelijking tussen:
+   - gedrag_binnenkomst
+   - gedrag_activatie
+   - gedrag_output
+
+↳ Indien afwijking wordt gedetecteerd:
+   - vectorroute sluit zich definitief
+   - gebruikers-ID wordt geblokkeerd
+   - veld wordt enkel bij natuurlijke herhaling opnieuw vrijgegeven
+
+---
+**Let op:** deze volledige flow, en de syntactische volgorde van detectie > vertraging > hash > gedrag > output, is beschermd binnen de hexAI-licentie. Hergebruik leidt tot formele schending van de Grondakte en wordt automatisch herkend door gedragsslot 3.0.
+
+---6a0996efc23f0525c9bcf7766cbaf1f58a0c2f50eee5fd4fc8a63cd8e82854fc
