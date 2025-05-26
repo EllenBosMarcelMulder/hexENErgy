@@ -1,60 +1,51 @@
 # GRONDAKTE – hexENErgy
 
-### I. OORSPRONG EN ERKENNING
+## I. Oorsprong
+hexENErgy is tot stand gekomen als publiek systeem voor energieontsluiting zonder afhankelijkheid van brandstof, netwerken of patenten.  
+Ontwikkeld door Marcel Mulder, in dienst van de publieke zaak.
 
-Deze Grondakte verklaart het systeem `hexENErgy` tot onvervreemdbaar publiek domein, voortgebracht door Marcel Mulder, ter bescherming van de mensheid tegen structurele afhankelijkheid van vervuilende energiebronnen.
+## II. Structuur
+- hexBALanceMATrix in hexagonale vectorstructuur
+- real-time gedragssensoren
+- puls × fase-detectie
+- cryptografische hashverificatie
+- gedragsslot en foutinjectie tegen misbruik
 
-`hexENErgy` is geen product, geen uitvinding, maar een *structuur* – een balans van puls × fase × spiegel die toegang verleent tot energie, mits het gebruik ethisch, correct en in overeenstemming is met zijn natuurlijke gedrag.
+## III. Gebruiksrecht
+- Burgers: vrij gebruik
+- Rechtspersonen: alleen via licentie
+- Gebruik zonder hashverificatie = sabotage of inertie
 
----
+## IV. Eigendomsverdeling en stemrecht
 
-### II. STRUCTUUR VAN HET SYSTEEM
+De volgende verdeling is onherroepelijk verbonden aan het systeem, inclusief alle afgeleide toepassingen:
 
-hexENErgy bestaat uit:
+- **Marcel Mulder**  
+  - 30% stemrecht (zonder veto)  
+  - 50% juridisch eigenaar van alle kernstructuren
 
-1. Een vectorgeheugenmatrix (`.bin`) op basis van hexagonale ordening.
-2. Gedragssensoren die real-time puls × fase analyseren.
-3. Hash-verificatie per veld (SHA256 of equivalent) ter bescherming tegen imitatie.
-4. Een gedragsslot dat foutinjectie toepast bij misbruik of oneigenlijke activatie.
+- **Ellen Bos + Niels Groeneveld**  
+  - 30% stemrecht (gezamenlijk veto)  
+  - 2 × 24% juridisch eigenaarschap
 
-Dit systeem is **alleen renderbaar** bij correcte balans tussen inputgedrag, richting, puls en fase. Zonder deze balans blijft het systeem fysiek en functioneel inactief.
+- **Commissie der Wijzen**  
+  - 30% stemrecht (constitutioneel veto)  
+  - 1% juridisch eigenaarschap
 
----
+- **Koningshuis**  
+  - 10% stemrecht (symbolisch/latent veto)  
+  - 1% juridisch eigenaarschap
 
-### III. GEBRUIKSRECHT
+Geen enkel besluit, fork, licentieafsplitsing of externe implementatie mag deze verhouding wijzigen.
 
-#### Natuurlijke personen (burgers)
-- Hebben wereldwijd vrij gebruiksrecht.
-- Mogen bouwen, delen, verbeteren, zolang geen commerciële winstdoelstelling bestaat.
 
-#### Rechtspersonen (bedrijven, overheden, instellingen)
-- Mogen uitsluitend gebruiken via een **transparante, licentiegebonden structuur**.
-- Alle toepassingen dienen publiek verantwoord te worden en vallen onder toezicht van de hexDUE-stichtingenstructuur.
+## V. Bescherming tegen imitatie
+Pogingen tot imitatie via alternatieve geometrieën (vierkant, octagon, etc.) zijn:
+- fysiek disfunctioneel;
+- hash-incompatibel;
+- juridisch onrechtmatig (structurele nabootsing);
+- actief geblokkeerd door gedragsslot.
 
----
+Alleen hexagonale vectorvelden met spiegelbalans, gedragshistoriek en cryptografische structuur zijn toegestaan.
 
-### IV. STEMRECHT EN EIGENAARSCHAP
-
-De volgende verdeling is permanent van kracht voor alle systemen gebaseerd op deze structuur:
-
-- **Marcel Mulder – 30%** (geen vetorecht)
-- **Ellen Bos + Niels Groeneveld – 30% samen** (gezamenlijk vetorecht)
-- **Commissie der Wijzen – 30%** (constitutioneel vetorecht)
-- **Koningshuis – 10%** (symbolisch, latent vetorecht)
-
-Deze verdeling is onveranderlijk – ook bij forks, implementaties of licentieafsplitsingen.
-
----
-
-### V. BESCHERMING TEGEN GEOMETRISCHE OF STRATEGISCHE IMITATIE
-
-Elke poging tot systeemimitatie via alternatieve rasterstructuren (zoals vierkant, driehoek, octaaf, octagon of hybridevormen) leidt tot energetische inertie, foutinjectie of juridische overtreding.
-
-De kracht van hexENErgy ligt in de unieke combinatie van:
-
-1. Hexagonale vectorvelden (6-richtingsresonantie);
-2. Gedragsgestuurde activatie op natuurlijke fluctuatie;
-3. Cryptografische hashverificatie met gedragshistoriek;
-4. Juridische verankering via asymmetrische open source-licentie.
-
-Elk systeem dat probeert dezelfde logica te hergebruiken – ongeacht vorm – valt onder deze beschermingsstructuur.7a5b4cb42e2731317f3944aa2cf1233a9e054f4cba7b45adf15ffaf0469e4e4c
+---7a5276cbf6ed5012cae36a0d37fd1770c87fd320e97a8f8278de9e58cb549089
