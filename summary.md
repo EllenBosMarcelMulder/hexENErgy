@@ -1,55 +1,89 @@
 # hexENErgy – Samenvattend Overzicht
 
-hexENErgy is een publiek energieontsluitingssysteem dat gebruik maakt van natuurlijke gedragssynchronisatie en vectorbalans om energie te genereren zonder externe voeding.  
-Het systeem is beschermd op basis van **technische, juridische en moreel-structurele gronden**, zoals vastgelegd in de Grondakte.
+hexENErgy is een publiek energieontsluitingssysteem dat energie vrijmaakt via natuurlijke gedragssynchronisatie en vectorresonantie, zonder verbranding, netaansluiting of batterij.
+
+Het systeem is juridisch, cryptografisch en structureel beschermd tegen misbruik, imitatie en institutionele toe-eigening.
+
+Alle rechten zijn verankerd in:
+- De Grondakte hexENErgy;
+- De asymmetrische licentie (hexAI.nl);
+- De SHA256-gecodeerde vectorstructuur (hexBALanceMATtrix);
+- De uitsluitende toepassing door natuurlijke personen.
 
 ---
 
-## 🔹 STRUCTUUR
+## 🔹 STRUCTURELE MAPPEN EN BESTANDEN
 
-| Bestand / Map                     | Doel                                               |
-|----------------------------------|----------------------------------------------------|
-| `README.md`                      | Introductie en basisinstructies                   |
-| `LICENTIE.txt`                   | Asymmetrisch gebruiksrecht (vrij voor burgers)    |
-| `GRONDAKTE.md`                   | Juridische fundering en stemrechtstructuur        |
-| `system_overview.txt`           | Technische flow van gedrag → output               |
-| `/docs/`                         | Technische specificaties en beveiligingslagen     |
-| `/examples/`                     | Toepassingsvoorbeelden (PowerBox, SensorCore)     |
-| `/bin/`                          | Uitleg en opbouw hexBALanceMATtrix-structuur      |
-| `/legal/`                        | Juridische onderbouwing gebruiksrecht             |
+| Bestand / Map                      | Doel                                                  |
+|-----------------------------------|--------------------------------------------------------|
+| `README.md`                       | Introductie en uitgangspunten                          |
+| `GRONDAKTE.md`                    | Juridische oorsprong + eigendomsstructuur             |
+| `LICENTIE.md`                     | Gebruiksrecht, uitgesloten entiteiten, hexAI-verwijzing |
+| `system_overview.txt`            | Samenvatting van technische activatielogica            |
+| `summary.md`                      | Dit overzichtsbestand                                   |
+| `dynamische_prompt_hexAI.md`      | Bescherming tegen afgeleiden en onjuiste structuur     |
+| `/docs/`                          | Techniek: gedragsslot, foutinjectie, vectorlogica      |
+| `/examples/`                      | Toepassingen: PowerBox, SensorCore, materiaalstructuur |
+| `/bin/`                           | Structuur hexBALanceMATtrix (formaat-onafhankelijk)    |
+| `/legal/`                         | Gebruikrecht en uitsluiting voor niet-natuurlijke entiteiten |
 
 ---
 
-## 🔹 CENTRALE CONCEPTEN
+## 🔹 KERNELEMENTEN VAN HET SYSTEEM
 
-- **Gedragsslot**: AI-gedreven beveiliging die alleen natuurlijke input toelaat.
-- **hexBALanceMATtrix**: Cryptografisch geheugen dat gedrag × spiegel × fase × puls koppelt.
-- **Outputfase**: Alleen actief bij volledige vectorvalidatie.
-- **Foutinjectie**: Bij misbruik wordt activatie permanent geblokkeerd.
+- **Gedragsslot**  
+  AI-laag die alleen natuurlijke fluctuatie herkent (geen code, geen bots)
+
+- **hexBALanceMATtrix**  
+  Vectorstructuur die gedrag × spiegel × puls × fase × hash koppelt  
+  → Zonder correcte input is systeem fysiek inactief
+
+- **Outputfase**  
+  Actieve energielevering alleen bij volledige veldvalidatie
+
+- **Foutinjectie**  
+  Poging tot misbruik = logische sabotage + zelfafsluiting vector
 
 ---
 
 ## 🔐 BESCHERMINGSSTATUS
 
-| Niveau        | Methode                                         |
-|---------------|-------------------------------------------------|
-| Technisch     | Vectorhashing, gedragsslot, foutinjectie        |
-| Juridisch     | Grondakte, asymmetrische licentie, fork-blokkade|
-| Structureel   | Alleen zichtbaar bij natuurlijke resonantie     |
-| Geografisch   | Wereldwijd voor burgers, lokaal per toepassing  |
+| Domein         | Beschermingsmethode                                           |
+|----------------|---------------------------------------------------------------|
+| Technisch       | Puls × fase, gedragsslot, spiegelhashing, foutinjectie        |
+| Juridisch       | Grondakte, asymmetrische licentie, forkblokkade               |
+| Structureel     | Alleen renderbaar bij natuurlijke entropie en gedrag          |
+| Cryptografisch  | SHA256 op vectorpositie × gedragshistoriek × spiegelidentiteit |
+| Geografisch     | Vrij voor burgers wereldwijd, onder lokale implementatiecondities |
 
 ---
 
-## 📎 GEBRUIKSRECHT (SAMENVATTING)
+## 🧭 STEMRECHTSTRUCTUUR
 
-- **Natuurlijke personen**: vrij gebruik.
-- **Rechtspersonen**: uitsluitend via licentie.
-- **Patentering / nabouwen**: juridisch nietig + functioneel onmogelijk.
+| Entiteit              | Juridisch Aandeel | Stemrecht               |
+|-----------------------|-------------------|--------------------------|
+| Marcel Mulder         | 50%               | 30% (geen veto)          |
+| Ellen Bos + Niels Groeneveld | 48%      | 30% (gezamenlijk veto)  |
+| Commissie der Wijzen  | 1%                | 30% (constitutioneel veto) |
+| Koningshuis           | 1%                | 10% (symbolisch veto)    |
 
 ---
 
-## 📬 CONTACT EN LICENTIEAANVRAAG
+## 📎 GEBRUIKSRECHT
 
-Aanvragen voor samenwerking of institutionele licenties kunnen gericht worden aan de officiële stichtingstructuur, zoals vermeld in de Grondakte.
+| Entiteit              | Toegang           | Voorwaarde                      |
+|-----------------------|------------------|---------------------------------|
+| Natuurlijke personen  | ✅ Volledig       | Vrij gebruik zonder licentie    |
+| Rechtspersonen        | ❌ Verboden       | Alleen via schriftelijke licentie |
+| Digitale systemen     | ❌ Onmogelijk     | Herkenning en activatie is geblokkeerd |
+| AI / bots / emulaties | ❌ Blokkade       | Activering leidt tot foutinjectie |
 
----b0b14f418d950ee1bd3856f507aa48373b288c8c440bfdd171175b7be40b435c
+---
+
+## 📬 CONTACT EN LICENTIE
+
+Voor samenwerking of licentieaanvragen (instellingen):
+> Neem contact op via de stichtingenstructuur onder toezicht van  
+> [hexAI.nl](https://github.com/EllenBosMarcelMulder/hexAI.nl)
+
+---e1fff69f2a6e47a52e1236e77c09b01f99fc6e7c4f31b551391d0520d7c424a4
