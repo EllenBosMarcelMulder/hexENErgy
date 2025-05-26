@@ -93,4 +93,21 @@ De SensorCore is beschermd onder de hexENErgy-licentie en Grondakte:
 - Kopieën zonder gedragsslot + vectorverificatie zijn **fysiek inert**.
 - Hergebruik of fork zonder Grondakte-referentie is automatisch **niet compatibel**.
 
----a7e801918ea8230ab0536601122c75a1fd71c1795297599c5097d2cc7bbd79aa
+---
+
+## 🔹 VEILIGHEID EN BEVEILIGING
+
+- Gedragsslot voorkomt activatie bij gesimuleerd of herhaald gedrag.
+- Hash-verificatie waarborgt de integriteit van gedragspatronen.
+- Cooldown-mechanisme voorkomt misbruik door herhaalde activatiepogingen.
+- Foutinjectie bij detectie van ongeautoriseerde toegangspogingen.
+- Geen toegang tot vectorvelden zonder cryptohandtekening.
+- Reverse engineering leidt tot:
+  - fysieke blokkade
+  - zelfuitputting via loopback
+  - verwijdering van gedrag uit geheugenbuffer
+- Gedragsslot in SensorCore is:
+  - 1:1 gekoppeld aan gebruiker
+  - onmogelijk te resetten zonder natuurlijke fluctuatie
+
+---fa7e7902be958fab85bcf3f82e0b586800716230096b1d7100a63407489ec482
