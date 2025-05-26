@@ -1,19 +1,27 @@
 # hexENErgy
 
-**hexENErgy** is een open source energiesysteem dat energie onttrekt aan natuurlijke fase × puls × spiegelbalans. Het systeem gebruikt vectorgeheugen, gedragssensoren en cryptografische hash-verificatie om uitsluitend bij legitiem gebruik energie vrij te geven.  
+**hexENErgy** is een publiek, open source energie-ontsluitingssysteem dat energie vrijmaakt uit fase × puls-resonantie.  
+Het systeem gebruikt een hexagonale vectorstructuur, natuurlijke gedragsinvoer, en cryptografische hashverificatie.
 
-🌍 Gemaakt voor burgers.  
-🚫 Commerciële en institutionele partijen zijn licentiegebonden.
+🧬 Alleen natuurlijke personen mogen het vrij gebruiken.  
+🏛 Bedrijven, overheden en instellingen hebben een expliciete licentie nodig via de hexDUE-stichtingen.
 
-Alle rechten, voorwaarden en technische basis zijn identiek aan:  
+Voor de juridische en technische basis zie:  
 🔗 [hexAI.nl](https://github.com/EllenBosMarcelMulder/hexAI.nl)
 
-## 🔐 Gebruik
+---
+## Kenmerken:
+- Geen externe voeding nodig
+- Geen CO₂-uitstoot
+- Zelfverdedigend tegen imitatie
+- Hash-gecontroleerd vectorgedrag
 
-| Gebruikerstype        | Toegang         |
-|-----------------------|-----------------|
-| Natuurlijke persoon   | Vrij, onbeperkt |
-| Commerciële partij    | Alleen via licentie |
-| Overheid/instelling   | Alleen via licentie |
+---
 
-Gebruik zonder vectorverificatie leidt tot automatische blokkade of foutinjectie.e6d680a089b163a854ac79e7b212295251b282c2d0669ae5008aed5432bba4e9
+## Gebruik:
+| Gebruikerstype        | Toegang             |
+|-----------------------|---------------------|
+| Burger (mens)         | Volledig vrij       |
+| Bedrijf / Instelling  | Alleen via licentie |
+
+---6e10805c07b67c1308240df03bf1effbb9e93a85c6024fd20fb128539a6b760e
